@@ -65,4 +65,7 @@ flowchart TD
   cognitive control is what makes conversational skill reliable under
   pressure.
 
+- [Social Identity](../../personal/social-identity.md) — the theory of
+  social identity, and defining mine.
+
 See also: [Book List](../../BOOKLIST.md).

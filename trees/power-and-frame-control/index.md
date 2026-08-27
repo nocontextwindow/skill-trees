@@ -77,4 +77,7 @@ flowchart TD
 - [Finance](../finance/index.md) — where the allocation of capital becomes
   a form of institutional power.
 
+- [Social Identity](../../personal/social-identity.md) — identity as the
+  thing being claimed, granted, and contested.
+
 See also: [Book List](../../BOOKLIST.md).

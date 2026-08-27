@@ -30,6 +30,12 @@ an `articles/` folder holding one article per topic.
 - [Economics](trees/economics/index.md)
 - [Finance](trees/finance/index.md)
 
+**Personal**
+- [Self-Map](personal/self-map.md) — personality, drives, proclivities,
+  failure modes.
+- [Social Identity](personal/social-identity.md) — the theory of social
+  identity, and defining mine.
+
 **Reading**
 - [Book List](BOOKLIST.md)
 
@@ -40,6 +46,8 @@ trees/<tree>/
   index.md            the map: blurb, Mermaid diagram, links into articles/
   articles/
     <topic>.md        one article per topic/question
+personal/             documents about me rather than about a subject
+BOOKLIST.md           everything captured, by area, with read status
 ```
 
 The **index** is the map and nothing else — it shows how topics relate and
