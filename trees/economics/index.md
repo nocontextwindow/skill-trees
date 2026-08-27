@@ -1,9 +1,15 @@
 # Economics
 
-Micro and macro fundamentals up through game theory, money, and political
-economy.
+How choice, coordination, and money actually work — and how much of what
+the field claims to know is settled versus contested. The structure below
+is the conventional construction of the subject: individual choice, then
+strategic interaction, then aggregates and money, then the politics that
+economic analysis usually assumes away.
 
-## Skill Tree
+Specific positions and current arguments live as open questions inside
+the branch they belong to, not as branches of their own.
+
+## Tree
 
 ```mermaid
 flowchart TD
@@ -41,18 +47,32 @@ flowchart TD
     ECON_POLECON --> ECON_POL
 ```
 
-## Sections
+## Articles
 
-- [Foundations](./foundations.md) — `ECON_MICRO` `ECON_MACRO`
-- [Behavior & Strategy](./behavior-and-strategy.md) — `ECON_GAME` `ECON_BEHAV`
-- [Money & the World](./money-and-the-world.md) — `ECON_MONEY` `ECON_TRADE` `ECON_DEV` `ECON_POLECON`
+**Foundations**
+- [Microeconomics](articles/microeconomics.md) — `ECON_MICRO`
+- [Macroeconomics](articles/macroeconomics.md) — `ECON_MACRO`
 
-See also: [Book List](../../BOOKLIST.md).
+**Behavior & Strategy**
+- [Game Theory](articles/game-theory.md) — `ECON_GAME`
+- [Behavioral Economics](articles/behavioral-economics.md) — `ECON_BEHAV`
+
+**Money & the World**
+- [Money & Monetary Policy](articles/money-and-monetary-policy.md) — `ECON_MONEY`
+- [International Trade](articles/international-trade.md) — `ECON_TRADE`
+- [Development Economics](articles/development-economics.md) — `ECON_DEV`
+
+**Political Economy**
+- [Political Economy](articles/political-economy.md) — `ECON_POLECON`
 
 ## Related Trees
 
-- [Statistics](../statistics/index.md) — `ECON_MACRO` modeling leans on
-  `STAT_MULTI`.
-- [Finance](../finance/index.md) — `ECON_MONEY` underlies `FIN_MARKETS`.
-- [Political Philosophy](../political-philosophy/index.md) — `ECON_POLECON`
-  connects to `POL_FACTIONS`.
+- [Statistics](../statistics/index.md) — the inference machinery every
+  empirical claim in this tree depends on.
+- [Finance](../finance/index.md) — where money and asset prices get
+  treated as a subject in their own right.
+- [Political Philosophy](../political-philosophy/index.md) — the
+  questions about property and distribution that economics inherits
+  rather than answers.
+
+See also: [Book List](../../BOOKLIST.md).
