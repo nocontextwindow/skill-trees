@@ -1,9 +1,14 @@
 # Mathematics
 
 The general-purpose toolkit that everything else — physics, statistics, ML,
-engineering — draws on.
+engineering — draws on, and a set of questions about what that toolkit
+actually is.
 
-## Skill Tree
+The arrows below are order of dependence. The questions inside each article
+mostly are not about technique; they're about what the subject is doing and
+what its choices commit you to.
+
+## Tree
 
 ```mermaid
 flowchart TD
@@ -39,13 +44,21 @@ flowchart TD
     MATH_LINALG --> MATH_ML
 ```
 
-## Sections
+## Articles
 
-- [Foundations](./foundations.md) — `MATH_ALGEBRA` `MATH_CALC` `MATH_LINALG` `MATH_DIFFEQ`
-- [Proof & Structure](./proof-and-structure.md) — `MATH_DISCRETE` `MATH_ABSTRACT`
-- [Analysis](./analysis.md) — `MATH_REALANAL` `MATH_TOPOLOGY`
+**Foundations**
+- [Algebra & Precalculus](articles/algebra-and-precalculus.md) — `MATH_ALGEBRA`
+- [Calculus](articles/calculus.md) — `MATH_CALC`
+- [Linear Algebra](articles/linear-algebra.md) — `MATH_LINALG`
+- [Differential Equations](articles/differential-equations.md) — `MATH_DIFFEQ`
 
-See also: [Book List](../../BOOKLIST.md).
+**Proof & Structure**
+- [Discrete Math & Proof](articles/discrete-math-and-proof.md) — `MATH_DISCRETE`
+- [Abstract Algebra](articles/abstract-algebra.md) — `MATH_ABSTRACT`
+
+**Analysis**
+- [Real Analysis](articles/real-analysis.md) — `MATH_REALANAL`
+- [Topology](articles/topology.md) — `MATH_TOPOLOGY`
 
 ## Related Trees
 
@@ -58,3 +71,5 @@ See also: [Book List](../../BOOKLIST.md).
 - [Civil Engineering](../civil-engineering/index.md) and
   [Materials Science](../materials-science/index.md) both build directly on
   `MATH_DIFFEQ`.
+
+See also: [Book List](../../BOOKLIST.md).

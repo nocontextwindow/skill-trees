@@ -1,9 +1,13 @@
 # Physics
 
 From the math prerequisites through classical and modern physics to the
-open questions at the edges of the field.
+places where the field's own foundations are still open.
 
-## Skill Tree
+The chain below is the standard order of dependence, not a ranking of
+importance — the interpretive questions at the end are live at every level,
+and several of them are older than the theories they attach to.
+
+## Tree
 
 ```mermaid
 flowchart TD
@@ -50,15 +54,30 @@ flowchart TD
     PH_THERMO --> PH_ML
 ```
 
-## Sections
+## Articles
 
-- [Foundations](./foundations.md) — `PH_MATH` `PH_CLASS`
-- [Core](./core.md) — `PH_EM` `PH_THERMO` `PH_WAVES`
-- [Modern](./modern.md) — `PH_SR` `PH_GR` `PH_QM`
-- [Advanced](./advanced.md) — `PH_QFT` `PH_PARTICLE` `PH_COSMO` `PH_COND`
-- [Philosophy of Physics](./philosophy-of-physics.md) — `PH_PHILO`
+**Foundations**
+- [Math Prerequisites](articles/math-prerequisites.md) — `PH_MATH`
+- [Classical Mechanics](articles/classical-mechanics.md) — `PH_CLASS`
 
-See also: [Book List](../../BOOKLIST.md).
+**Core**
+- [Electromagnetism](articles/electromagnetism.md) — `PH_EM`
+- [Thermodynamics & Statistical Mechanics](articles/thermodynamics-and-statistical-mechanics.md) — `PH_THERMO`
+- [Waves & Optics](articles/waves-and-optics.md) — `PH_WAVES`
+
+**Modern**
+- [Special Relativity](articles/special-relativity.md) — `PH_SR`
+- [General Relativity](articles/general-relativity.md) — `PH_GR`
+- [Quantum Mechanics](articles/quantum-mechanics.md) — `PH_QM`
+
+**Advanced**
+- [Quantum Field Theory](articles/quantum-field-theory.md) — `PH_QFT`
+- [Particle Physics](articles/particle-physics.md) — `PH_PARTICLE`
+- [Cosmology](articles/cosmology.md) — `PH_COSMO`
+- [Condensed Matter Physics](articles/condensed-matter-physics.md) — `PH_COND`
+
+**Interpretation**
+- [Philosophy of Physics](articles/philosophy-of-physics.md) — `PH_PHILO`
 
 ## Related Trees
 
@@ -71,3 +90,5 @@ See also: [Book List](../../BOOKLIST.md).
   underlie `MAT_THERMO` and `MAT_ELEC`.
 - [Personal Philosophy](../personal-philosophy/index.md) — `PH_PHILO`'s
   questions about determinism and the nature of time bear on `PP_META`.
+
+See also: [Book List](../../BOOKLIST.md).
