@@ -1,83 +1,123 @@
 # Political Philosophy
 
-Fleshing out political positions all the way down to root principles — well
-enough to argue them, and well enough to counter them.
+Working political positions down to root principles — far enough down that
+they can be defended, and far enough that the opposing ones can be
+countered at the root rather than at the slogan.
 
-This tree is structured as **open questions**, not a checklist. For every
-contested question below: **steelman the strongest version of the position
-you disagree with before writing your own answer.** A counter to a
-strawman isn't worth having, and it won't survive contact with someone who
-actually knows the material.
+The structure is the standard architecture of political philosophy.
+Specific contemporary disputes live as open questions inside the branch
+they actually belong to. **Every contested question here gets the
+steelman first** — reconstruct the opposing position at its strongest
+before answering it, or the answer is worthless.
 
-## Skill Tree
+## Tree
 
 ```mermaid
 flowchart TD
-    subgraph "Root Principles"
-        POL_ROOT[State of Nature & Social Contract<br/>Hobbes / Locke / Rousseau]
-        POL_RIGHTS[Individual Rights &<br/>the Non-Aggression Principle]
-        POL_CHRISTIAN[Christian Heritage of the West<br/>Christendom's role in liberalism]
-        POL_ROOT --> POL_RIGHTS --> POL_CHRISTIAN
+    subgraph Foundations
+        POL_NATURE[Human Nature &<br/>What Politics Must Assume]
+        POL_UNIT[The Unit of Analysis<br/>individual & collective]
+        POL_NATURE --> POL_UNIT
     end
 
-    subgraph "Selfhood & Morality"
-        POL_SELFISH[The Virtue of Selfishness<br/>Rational egoism as political foundation]
-        POL_MORAL[Morality & Its Enforcement by Society]
-        POL_HEDON[Against Hedonism]
-        POL_PROMISC[Against Promiscuity<br/>in the Modern Age]
-        POL_SELFISH --> POL_MORAL --> POL_HEDON --> POL_PROMISC
+    subgraph "Legitimacy & Authority"
+        POL_LEGIT[What Makes Power Legitimate]
+        POL_CONTRACT[Consent & the Social Contract]
+        POL_OBLIGATION[Political Obligation & Disobedience]
+        POL_LEGIT --> POL_CONTRACT --> POL_OBLIGATION
     end
 
-    subgraph "Religion & the Divine"
-        POL_RELIGION[The Positive Social Role of Religion]
-        POL_DIVINE[The Usefulness of the<br/>Conception of the Divine]
-        POL_THEOCRACY[Theocracy<br/>Case Studies & Critique]
-        POL_SPIRIT[Rationality & the Spiritual<br/>A Secular Spiritual Domain]
-        POL_RELIGION --> POL_DIVINE --> POL_THEOCRACY --> POL_SPIRIT
+    subgraph "Rights & Justice"
+        POL_RIGHTS[What Grounds Rights]
+        POL_LIBERTY[Liberty & Its Limits]
+        POL_PROPERTY[Property & Ownership]
+        POL_JUSTICE[Justice & Distribution]
+        POL_RIGHTS --> POL_LIBERTY --> POL_PROPERTY --> POL_JUSTICE
     end
 
-    subgraph "Power, History & Stability"
-        POL_FRAMES[Frames of Power & Brainwashing<br/>Propaganda / Overton Window]
-        POL_FACTIONS[Factions<br/>Federalist No. 10, Coalition Stability]
-        POL_COLONIAL[History of Colonization & Imperialism]
-        POL_FEMINISM[Feminism<br/>Core Claims & a Critical Response]
-        POL_FRAMES --> POL_FACTIONS --> POL_COLONIAL --> POL_FEMINISM
+    subgraph "The State"
+        POL_SCOPE[Proper Scope of the State]
+        POL_FORMS[Forms of Government]
+        POL_LAW[Law & Enforcement]
+        POL_SCOPE --> POL_FORMS --> POL_LAW
     end
 
-    POL_CHRISTIAN --> POL_SELFISH
-    POL_CHRISTIAN --> POL_RELIGION
-    POL_ROOT --> POL_FRAMES
+    subgraph "Society & Culture"
+        POL_MORALENF[Morality & Social Enforcement]
+        POL_RELIGION[Religion & Political Order]
+        POL_FAMILY[Family, Sex & Social Reproduction]
+        POL_COHESION[Faction, Cohesion & Group Stability]
+        POL_TRADITION[Tradition & Inheritance]
+        POL_MORALENF --> POL_RELIGION --> POL_FAMILY --> POL_COHESION --> POL_TRADITION
+    end
+
+    subgraph "Conflict & Change"
+        POL_IDEOLOGY[Ideology, Persuasion & Manufactured Belief]
+        POL_EMPIRE[Empire, Conquest & Historical Power]
+        POL_CHANGE[Revolution & Political Change]
+        POL_IDEOLOGY --> POL_EMPIRE --> POL_CHANGE
+    end
+
+    POL_UNIT --> POL_LEGIT
+    POL_OBLIGATION --> POL_RIGHTS
+    POL_JUSTICE --> POL_SCOPE
+    POL_LAW --> POL_MORALENF
+    POL_TRADITION --> POL_IDEOLOGY
 
     classDef crosslink stroke-dasharray: 5 5
     POL_PP(("→ Personal Philosophy")):::crosslink
-    POL_ES(("→ Esotericism & Religion")):::crosslink
     POL_PWR(("→ Power & Frame Control")):::crosslink
-    POL_EP(("→ Epistemology")):::crosslink
-    POL_SELFISH --> POL_PP
-    POL_DIVINE --> POL_ES
-    POL_FRAMES --> POL_PWR
-    POL_ROOT --> POL_EP
+    POL_ES(("→ Esotericism & Religion")):::crosslink
+    POL_ECON(("→ Economics")):::crosslink
+    POL_UNIT --> POL_PP
+    POL_IDEOLOGY --> POL_PWR
+    POL_RELIGION --> POL_ES
+    POL_PROPERTY --> POL_ECON
 ```
 
-## Sections
+## Articles
 
-- [Root Principles](./root-principles.md) — `POL_ROOT` `POL_RIGHTS` `POL_CHRISTIAN`
-- [Selfhood & Morality](./selfhood-and-morality.md) — `POL_SELFISH` `POL_MORAL` `POL_HEDON` `POL_PROMISC`
-- [Religion & the Divine](./religion-and-the-divine.md) — `POL_RELIGION` `POL_DIVINE` `POL_THEOCRACY` `POL_SPIRIT`
-- [Power, History & Stability](./power-history-and-stability.md) — `POL_FRAMES` `POL_FACTIONS` `POL_COLONIAL` `POL_FEMINISM`
+**Foundations**
+- [Human Nature & What Politics Must Assume](articles/human-nature.md) — `POL_NATURE`
+- [The Unit of Analysis](articles/the-unit-of-analysis.md) — `POL_UNIT`
 
-See also: [Book List](../../BOOKLIST.md).
+**Legitimacy & Authority**
+- [What Makes Power Legitimate](articles/legitimacy.md) — `POL_LEGIT`
+- [Consent & the Social Contract](articles/consent-and-the-social-contract.md) — `POL_CONTRACT`
+- [Political Obligation & Disobedience](articles/political-obligation.md) — `POL_OBLIGATION`
+
+**Rights & Justice**
+- [What Grounds Rights](articles/what-grounds-rights.md) — `POL_RIGHTS`
+- [Liberty & Its Limits](articles/liberty-and-its-limits.md) — `POL_LIBERTY`
+- [Property & Ownership](articles/property-and-ownership.md) — `POL_PROPERTY`
+- [Justice & Distribution](articles/justice-and-distribution.md) — `POL_JUSTICE`
+
+**The State**
+- [Proper Scope of the State](articles/scope-of-the-state.md) — `POL_SCOPE`
+- [Forms of Government](articles/forms-of-government.md) — `POL_FORMS`
+- [Law & Enforcement](articles/law-and-enforcement.md) — `POL_LAW`
+
+**Society & Culture**
+- [Morality & Social Enforcement](articles/morality-and-social-enforcement.md) — `POL_MORALENF`
+- [Religion & Political Order](articles/religion-and-political-order.md) — `POL_RELIGION`
+- [Family, Sex & Social Reproduction](articles/family-sex-and-social-reproduction.md) — `POL_FAMILY`
+- [Faction, Cohesion & Group Stability](articles/faction-and-cohesion.md) — `POL_COHESION`
+- [Tradition & Inheritance](articles/tradition-and-inheritance.md) — `POL_TRADITION`
+
+**Conflict & Change**
+- [Ideology, Persuasion & Manufactured Belief](articles/ideology-and-persuasion.md) — `POL_IDEOLOGY`
+- [Empire, Conquest & Historical Power](articles/empire-and-conquest.md) — `POL_EMPIRE`
+- [Revolution & Political Change](articles/revolution-and-change.md) — `POL_CHANGE`
 
 ## Related Trees
 
-- [Personal Philosophy](../personal-philosophy/index.md) — `POL_SELFISH` is
-  the political extension of rational egoism.
-- [Esotericism & Religion](../esotericism-and-religion/index.md) —
-  `POL_DIVINE` and `POL_THEOCRACY` connect to Gnosticism and secular
-  spirituality there.
-- [Power & Frame Control](../power-and-frame-control/index.md) —
-  `POL_FRAMES` is the political-theory side of propaganda technique.
-- [Epistemology](../epistemology/index.md) — root-principles reasoning
-  depends on theories of justification.
-- [Economics](../economics/index.md) — `POL_FACTIONS` overlaps with the
-  game theory of coalitions.
+- [Personal Philosophy](../personal-philosophy/index.md) — the ethics this
+  extends from.
+- [Power & Frame Control](../power-and-frame-control/index.md) — how power
+  actually operates, as opposed to how it's justified.
+- [Esotericism & Religion](../esotericism-and-religion/index.md) — what
+  religion is doing that political order depends on.
+- [Economics](../economics/index.md) — property, distribution, and the
+  material constraints on any political arrangement.
+
+See also: [Book List](../../BOOKLIST.md).

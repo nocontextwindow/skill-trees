@@ -1,8 +1,8 @@
 # Skill Trees
 
-A personal map of the things I want to learn, organized as skill trees. Each
-tree is a folder: an `index.md` with a Mermaid flowchart overview, plus one
-article file per section going into actual depth on that section's topics.
+A personal map of concepts to learn and positions to work out. Each tree is
+a folder: an `index.md` holding the map (a Mermaid diagram plus links), and
+an `articles/` folder holding one article per topic.
 
 ## Trees
 
@@ -31,109 +31,62 @@ article file per section going into actual depth on that section's topics.
 - [Finance](trees/finance/index.md)
 
 **Reading**
-- [Book List](BOOKLIST.md) — every book/resource read across all trees,
-  cross-referenced back to the section that cites it. Empty until entries
-  get added.
-
-## How the trees relate
-
-The domains overlap a lot, so nodes in one tree sometimes point at a related
-node in another — each tree's index file has the specific pointers in its
-"Related Trees" section.
-
-```mermaid
-flowchart TD
-    PP[Personal Philosophy]
-    POL[Political Philosophy]
-    EP[Epistemology]
-    ES[Esotericism & Religion]
-    PSY[Psychology & Self-Mastery]
-    PWR[Power & Frame Control]
-    SOC[Social Skills]
-    PH[Physics]
-    BIO[Biology]
-    MATH[Mathematics]
-    STAT[Statistics]
-    MAT[Materials Science]
-    ML[Machine Learning / AI]
-    CE[Civil Engineering]
-    ECON[Economics]
-    FIN[Finance]
-
-    PP --> POL
-    PP --> PSY
-    PP --> ES
-    PSY --> PWR
-    PWR --> SOC
-    POL --> PWR
-    POL --> ES
-    EP --> PH
-    EP --> ML
-    MATH --> STAT --> ML
-    MATH --> PH --> MAT
-    MAT --> CE
-    STAT --> ECON --> FIN
-    PWR --> FIN
-```
+- [Book List](BOOKLIST.md)
 
 ## Structure
 
-Each tree lives at `trees/<name>/`:
+```
+trees/<tree>/
+  index.md            the map: blurb, Mermaid diagram, links into articles/
+  articles/
+    <topic>.md        one article per topic/question
+```
 
-- **`index.md`** — intro blurb, the Mermaid flowchart (structure/order —
-  unchanged from before), a "Sections" list linking to that tree's article
-  files, a link to the Book List, and "Related Trees."
-- **One article file per section** (a section = one `subgraph` block in the
-  diagram) — real depth on each topic in that section, not just a table
-  row. For most trees this means, per topic: a substantive paragraph of
-  actual content (explanation, key debates, open questions worth knowing),
-  a status checkbox, and a resources list.
+The **index** is the map and nothing else — it shows how topics relate and
+links out. All actual content lives in **articles**, one file per topic, so
+a topic can grow to whatever length it deserves without bloating the map.
 
-**Personal Philosophy and Political Philosophy are the exception** — their
-section files are structured as **open questions** instead of topic
-explanations: the question itself, a `**My answer:**` placeholder to fill
-in over time, and separate `**Resources read:**` / `**Resources to read:**`
-lists. The point of those two trees isn't to "learn" a fixed body of
-material, it's to work out and record an actual position — so the file
-format reflects that.
+## Article format
+
+Every article has the same four parts:
+
+1. **Framing** — what the topic is and what's actually contested in it.
+   Short. Enough to know why the questions below are the questions.
+2. **Open questions** — the real content. What needs an answer, stated as
+   questions rather than as a syllabus.
+3. **Notes** — empty. Where working-out goes.
+4. **Resources** — **empty by default.** Only things actually read get
+   added here, by hand. Nothing gets pre-populated with recommendations —
+   an unread suggestion in a resource list is noise that looks like
+   progress.
 
 ## Conventions
 
-- **Node IDs are prefixed** per tree (`PP_`, `EP_`, `POL_`, ...) so IDs never
-  collide if trees are ever merged into one diagram, and article headers
-  reference the ID (e.g. `## Rational Egoism (\`PP_EGO\`)`) so it's easy to
-  find a node's full write-up from the diagram.
-- **Diagrams are vertical.** Use `flowchart TD` and chain nodes top-to-bottom
-  in narrow columns rather than fanning siblings out side by side. Where
-  topics are really alternatives rather than a strict prerequisite chain,
-  they're still drawn as a top-to-bottom sequence — the arrow means "comes
-  next in a sensible reading order," not always "strictly requires." Keep
-  any unavoidable branching to 2–3 nodes wide at most.
-- **No capstones.** Trees end at their most advanced listed topic — don't
-  add a synthetic "capstone project" node that wasn't asked for.
-- **Cross-tree links are plain markdown links**, not Mermaid `click` events —
-  GitHub's Mermaid renderer doesn't reliably support in-diagram links, so
-  navigation between trees lives in the "Related Trees" section and, for a
-  tree that's really a deep dive off of a node in another tree, a dashed
-  cross-link node in the diagram itself.
+- **Trees are built on the structure of the domain**, not on whatever
+  happened to be interesting the day the tree was made. Specific interests,
+  positions, and pet topics belong as **open questions inside** the
+  relevant article — not as their own top-level branch. If a topic can't
+  be stated as a question under an existing branch, that's a sign the
+  branch structure is wrong, not that the topic needs its own box.
+- **Open questions over checklists.** These are for working something out,
+  not for clearing a syllabus. Prefer a question with no answer yet to a
+  node with a definition already filled in.
+- **Node IDs are prefixed** per tree (`PP_`, `POL_`, `EP_`, ...) so IDs
+  never collide, and each article names its own ID so it's findable from
+  the diagram.
+- **Diagrams are vertical.** `flowchart TD`, chained top-to-bottom in narrow
+  columns, branching kept to 2–3 wide. The arrow means "comes next in a
+  sensible order," not always "strictly requires."
+- **No capstones**, no synthetic "final project" nodes.
+- **Cross-tree links** are plain markdown links (GitHub's Mermaid doesn't
+  reliably support in-diagram links), in a "Related Trees" section, plus a
+  dashed circle node in the diagram where one tree is a deep dive off
+  another.
 - **Status values**: `[ ]` not started, `[~]` in progress, `[x]` done.
-- **Contested topics get a steelman first.** Political Philosophy in
-  particular is meant to sharpen positions well enough to counter them — the
-  resource notes there should point at the strongest form of the opposing
-  view before the counter-case is built. A counter to a strawman isn't
-  worth having.
-- **The Book List is the single place all reading gets logged.** A
-  section's resource list can just point back at it ("see Book List")
-  instead of repeating a full citation once a book's actually been read.
 
-## Adding a new tree
+## Adding a tree
 
-1. Create `trees/<name>/index.md` and one article file per planned section.
-2. Follow the shape of an existing tree of the same kind — a topical tree
-   like [Physics](trees/physics/index.md) for most subjects, or the
-   open-question shape of [Personal Philosophy](trees/personal-philosophy/index.md)
-   if the tree is really about working out a position rather than learning
-   fixed material.
-3. Add it to the list above and, if it meaningfully overlaps with an
-   existing tree, add a link in both directions.
-4. Add a heading for it in [BOOKLIST.md](BOOKLIST.md).
+1. `trees/<name>/index.md` with the blurb, diagram, and article links.
+2. `trees/<name>/articles/<topic>.md` per topic, in the four-part format.
+3. Add it to the list above, link it both ways from any tree it overlaps,
+   and add a heading in [BOOKLIST.md](BOOKLIST.md).

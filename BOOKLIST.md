@@ -1,15 +1,12 @@
 # Book List
 
-A running list of everything read (or being read, or queued) across all the
-trees. This is intentionally empty right now — fill it in as books get
-read, and cross-reference from the relevant tree section (e.g. a note in
-`trees/personal-philosophy/ethics-and-character.md` can just say "see Book
-List" instead of repeating the citation).
+Everything actually read, across all trees. Only add a book once it's been
+read (or is actively being read) — this is a record, not a wishlist.
 
-Suggested entry format:
+Format:
 
 ```
-- **Title** — Author (status: want to read / reading / read — date) — tree/section link — notes
+- **Title** — Author — <tree/article it relates to> — notes
 ```
 
 ## Personal Philosophy
