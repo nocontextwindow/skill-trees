@@ -3,7 +3,11 @@
 From statics and mechanics of materials up through structural design and
 the built environment.
 
-## Skill Tree
+The structure below follows the discipline's own progression: a shared
+analytical foundation, then the four sub-disciplines that branch off it,
+ending in how a design actually gets built.
+
+## Tree
 
 ```mermaid
 flowchart TD
@@ -43,14 +47,24 @@ flowchart TD
     CE_MECH --> CE_MAT
 ```
 
-## Sections
+## Articles
 
-- [Foundations](./foundations.md) — `CE_MATH` `CE_STATICS` `CE_MECH`
-- [Structural & Geotechnical](./structural-and-geotechnical.md) — `CE_STRUCT` `CE_GEOTECH`
-- [Fluids & Environment](./fluids-and-environment.md) — `CE_FLUID` `CE_ENV`
-- [Delivery](./delivery.md) — `CE_TRANSPORT` `CE_CONST`
+**Foundations**
+- [Engineering Math](articles/engineering-math.md) — `CE_MATH`
+- [Statics](articles/statics.md) — `CE_STATICS`
+- [Mechanics of Materials](articles/mechanics-of-materials.md) — `CE_MECH`
 
-See also: [Book List](../../BOOKLIST.md).
+**Structural & Geotechnical**
+- [Structural Analysis & Design](articles/structural-analysis-and-design.md) — `CE_STRUCT`
+- [Geotechnical Engineering](articles/geotechnical-engineering.md) — `CE_GEOTECH`
+
+**Fluids & Environment**
+- [Fluid Mechanics & Hydraulics](articles/fluid-mechanics-and-hydraulics.md) — `CE_FLUID`
+- [Environmental Engineering](articles/environmental-engineering.md) — `CE_ENV`
+
+**Delivery**
+- [Transportation Engineering](articles/transportation-engineering.md) — `CE_TRANSPORT`
+- [Construction Management](articles/construction-management.md) — `CE_CONST`
 
 ## Related Trees
 
@@ -58,3 +72,5 @@ See also: [Book List](../../BOOKLIST.md).
 - [Materials Science](../materials-science/index.md) — `CE_MECH` is the
   applied counterpart to `MAT_MECH`.
 - [Physics](../physics/index.md) — `CE_STATICS` builds on `PH_CLASS`.
+
+See also: [Book List](../../BOOKLIST.md).

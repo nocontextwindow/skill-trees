@@ -3,7 +3,10 @@
 From chemistry up through cells, genetics, and systems, to the
 neuroscience/biotech frontier.
 
-## Skill Tree
+The structure below follows the levels of organization biology is actually
+built on — each level constrains the one above without fully determining it.
+
+## Tree
 
 ```mermaid
 flowchart TD
@@ -38,13 +41,21 @@ flowchart TD
     BIO_NEURO --> BIO_ML
 ```
 
-## Sections
+## Articles
 
-- [Foundations](./foundations.md) — `BIO_CHEM` `BIO_CELL`
-- [Genetics & Evolution](./genetics-and-evolution.md) — `BIO_GENETICS` `BIO_EVO` `BIO_ECO`
-- [Systems & Frontier](./systems-and-frontier.md) — `BIO_PHYS` `BIO_NEURO` `BIO_SYNBIO`
+**Foundations**
+- [Chemistry Foundations](articles/chemistry-foundations.md) — `BIO_CHEM`
+- [Cell Biology](articles/cell-biology.md) — `BIO_CELL`
 
-See also: [Book List](../../BOOKLIST.md).
+**Genetics & Evolution**
+- [Genetics & Molecular Biology](articles/genetics-and-molecular-biology.md) — `BIO_GENETICS`
+- [Evolutionary Biology](articles/evolutionary-biology.md) — `BIO_EVO`
+- [Ecology](articles/ecology.md) — `BIO_ECO`
+
+**Systems & Frontier**
+- [Physiology & Anatomy](articles/physiology-and-anatomy.md) — `BIO_PHYS`
+- [Neuroscience](articles/neuroscience.md) — `BIO_NEURO`
+- [Synthetic Biology / Biotech](articles/synthetic-biology-and-biotech.md) — `BIO_SYNBIO`
 
 ## Related Trees
 
@@ -54,3 +65,5 @@ See also: [Book List](../../BOOKLIST.md).
   biological inspiration for `ML_NN`.
 - [Materials Science](../materials-science/index.md) — `BIO_CHEM` overlaps
   with `MAT_CHEM`.
+
+See also: [Book List](../../BOOKLIST.md).

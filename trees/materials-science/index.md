@@ -3,7 +3,11 @@
 Why materials behave the way they do, from crystal structure up to
 engineered composites and semiconductors.
 
-## Skill Tree
+The structure below follows the discipline's own organizing chain —
+processing, structure, properties, performance — from bonding at the bottom
+to specific material classes at the top.
+
+## Tree
 
 ```mermaid
 flowchart TD
@@ -37,13 +41,21 @@ flowchart TD
     MAT_MECH --> MAT_CE
 ```
 
-## Sections
+## Articles
 
-- [Foundations](./foundations.md) — `MAT_CHEM` `MAT_STRUCT`
-- [Thermodynamics & Mechanics](./thermodynamics-and-mechanics.md) — `MAT_THERMO` `MAT_MECH`
-- [Material Classes](./material-classes.md) — `MAT_METALS` `MAT_POLYMER` `MAT_ELEC` `MAT_NANO`
+**Foundations**
+- [Chemistry Foundations](articles/chemistry-foundations.md) — `MAT_CHEM`
+- [Atomic & Crystal Structure](articles/atomic-and-crystal-structure.md) — `MAT_STRUCT`
 
-See also: [Book List](../../BOOKLIST.md).
+**Thermodynamics & Mechanics**
+- [Thermodynamics of Materials](articles/thermodynamics-of-materials.md) — `MAT_THERMO`
+- [Mechanical Properties of Materials](articles/mechanical-properties-of-materials.md) — `MAT_MECH`
+
+**Material Classes**
+- [Metallurgy](articles/metallurgy.md) — `MAT_METALS`
+- [Polymers & Composites](articles/polymers-and-composites.md) — `MAT_POLYMER`
+- [Electronic & Semiconductor Materials](articles/electronic-and-semiconductor-materials.md) — `MAT_ELEC`
+- [Nanomaterials](articles/nanomaterials.md) — `MAT_NANO`
 
 ## Related Trees
 
@@ -52,3 +64,5 @@ See also: [Book List](../../BOOKLIST.md).
 - [Civil Engineering](../civil-engineering/index.md) — `MAT_MECH` underlies
   `CE_MECH`.
 - [Biology](../biology/index.md) — `MAT_CHEM` overlaps with `BIO_CHEM`.
+
+See also: [Book List](../../BOOKLIST.md).

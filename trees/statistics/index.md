@@ -3,7 +3,10 @@
 Probability, inference, and how to actually trust (or distrust) a
 conclusion drawn from data.
 
-## Skill Tree
+The structure below runs from what probability *is*, through the two rival
+inferential frameworks, to the modelling methods built on top of them.
+
+## Tree
 
 ```mermaid
 flowchart TD
@@ -40,13 +43,20 @@ flowchart TD
     STAT_MULTI --> STAT_ECON
 ```
 
-## Sections
+## Articles
 
-- [Foundations](./foundations.md) — `STAT_PROB` `STAT_DESC`
-- [Inference](./inference.md) — `STAT_INFER` `STAT_BAYES` `STAT_EXPDESIGN`
-- [Modeling](./modeling.md) — `STAT_REGRESS` `STAT_MULTI`
+**Foundations**
+- [Probability Theory](articles/probability-theory.md) — `STAT_PROB`
+- [Descriptive Statistics](articles/descriptive-statistics.md) — `STAT_DESC`
 
-See also: [Book List](../../BOOKLIST.md).
+**Inference**
+- [Statistical Inference](articles/statistical-inference.md) — `STAT_INFER`
+- [Bayesian Statistics](articles/bayesian-statistics.md) — `STAT_BAYES`
+- [Experimental Design & Causal Inference](articles/experimental-design-and-causal-inference.md) — `STAT_EXPDESIGN`
+
+**Modeling**
+- [Regression & Modeling](articles/regression-and-modeling.md) — `STAT_REGRESS`
+- [Multivariate & Time Series Methods](articles/multivariate-and-time-series-methods.md) — `STAT_MULTI`
 
 ## Related Trees
 
@@ -60,3 +70,5 @@ See also: [Book List](../../BOOKLIST.md).
   modeling.
 - [Biology](../biology/index.md) — `STAT_EXPDESIGN` underlies `BIO_EVO`
   (population genetics) and experimental biology generally.
+
+See also: [Book List](../../BOOKLIST.md).
