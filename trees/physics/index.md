@@ -54,31 +54,6 @@ flowchart TD
     PH_THERMO --> PH_ML
 ```
 
-## Articles
-
-**Foundations**
-- [Math Prerequisites](articles/math-prerequisites.md) — `PH_MATH`
-- [Classical Mechanics](articles/classical-mechanics.md) — `PH_CLASS`
-
-**Core**
-- [Electromagnetism](articles/electromagnetism.md) — `PH_EM`
-- [Thermodynamics & Statistical Mechanics](articles/thermodynamics-and-statistical-mechanics.md) — `PH_THERMO`
-- [Waves & Optics](articles/waves-and-optics.md) — `PH_WAVES`
-
-**Modern**
-- [Special Relativity](articles/special-relativity.md) — `PH_SR`
-- [General Relativity](articles/general-relativity.md) — `PH_GR`
-- [Quantum Mechanics](articles/quantum-mechanics.md) — `PH_QM`
-
-**Advanced**
-- [Quantum Field Theory](articles/quantum-field-theory.md) — `PH_QFT`
-- [Particle Physics](articles/particle-physics.md) — `PH_PARTICLE`
-- [Cosmology](articles/cosmology.md) — `PH_COSMO`
-- [Condensed Matter Physics](articles/condensed-matter-physics.md) — `PH_COND`
-
-**Interpretation**
-- [Philosophy of Physics](articles/philosophy-of-physics.md) — `PH_PHILO`
-
 ## Related Trees
 
 - [Epistemology](../epistemology/index.md) — `PH_PHILO` is a direct

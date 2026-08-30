@@ -47,24 +47,6 @@ flowchart TD
     ECON_POLECON --> ECON_POL
 ```
 
-## Articles
-
-**Foundations**
-- [Microeconomics](articles/microeconomics.md) — `ECON_MICRO`
-- [Macroeconomics](articles/macroeconomics.md) — `ECON_MACRO`
-
-**Behavior & Strategy**
-- [Game Theory](articles/game-theory.md) — `ECON_GAME`
-- [Behavioral Economics](articles/behavioral-economics.md) — `ECON_BEHAV`
-
-**Money & the World**
-- [Money & Monetary Policy](articles/money-and-monetary-policy.md) — `ECON_MONEY`
-- [International Trade](articles/international-trade.md) — `ECON_TRADE`
-- [Development Economics](articles/development-economics.md) — `ECON_DEV`
-
-**Political Economy**
-- [Political Economy](articles/political-economy.md) — `ECON_POLECON`
-
 ## Related Trees
 
 - [Statistics](../statistics/index.md) — the inference machinery every

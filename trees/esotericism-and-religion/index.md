@@ -45,23 +45,6 @@ flowchart TD
     ES_GNOSTIC --> ES_POL
 ```
 
-## Articles
-
-**Foundations**
-- [Comparative Religion](articles/comparative-religion.md) — `ES_COMPREL`
-- [Mysticism vs Rationalism](articles/mysticism-and-rationalism.md) — `ES_MYSTIC`
-
-**Hermetic & Gnostic Traditions**
-- [Hermeticism](articles/hermeticism.md) — `ES_HERMET`
-- [Gnosticism & Dualism](articles/gnosticism-and-dualism.md) — `ES_GNOSTIC`
-
-**Symbol & Practice**
-- [Occult Symbolism & Practice](articles/occult-symbolism-and-practice.md) — `ES_OCCULT`
-- [Ritual, Symbol & Efficacy](articles/ritual-symbol-and-efficacy.md) — `ES_RITUAL`
-
-**Synthesis**
-- [Secular Spirituality Synthesis](articles/secular-spirituality.md) — `ES_SECULAR`
-
 ## Related Trees
 
 - [Personal Philosophy](../personal-philosophy/index.md) — secular

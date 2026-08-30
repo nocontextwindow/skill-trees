@@ -41,22 +41,6 @@ flowchart TD
     MAT_MECH --> MAT_CE
 ```
 
-## Articles
-
-**Foundations**
-- [Chemistry Foundations](articles/chemistry-foundations.md) — `MAT_CHEM`
-- [Atomic & Crystal Structure](articles/atomic-and-crystal-structure.md) — `MAT_STRUCT`
-
-**Thermodynamics & Mechanics**
-- [Thermodynamics of Materials](articles/thermodynamics-of-materials.md) — `MAT_THERMO`
-- [Mechanical Properties of Materials](articles/mechanical-properties-of-materials.md) — `MAT_MECH`
-
-**Material Classes**
-- [Metallurgy](articles/metallurgy.md) — `MAT_METALS`
-- [Polymers & Composites](articles/polymers-and-composites.md) — `MAT_POLYMER`
-- [Electronic & Semiconductor Materials](articles/electronic-and-semiconductor-materials.md) — `MAT_ELEC`
-- [Nanomaterials](articles/nanomaterials.md) — `MAT_NANO`
-
 ## Related Trees
 
 - [Physics](../physics/index.md) — `MAT_THERMO` and `MAT_ELEC` build on `PH_THERMO`

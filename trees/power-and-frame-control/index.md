@@ -3,11 +3,6 @@
 How power, status, and frames actually operate — as opposed to how they get
 justified — from a single conversation up to civilizational scale.
 
-The structure runs from the interpersonal layer, to the structures that
-outlast individuals, to power at scale. Particular techniques, scenes, and
-institutions are open questions *inside* these branches, not branches of
-their own.
-
 ## Tree
 
 ```mermaid
@@ -47,24 +42,6 @@ flowchart TD
     PWR_POLARITY --> PWR_PP
     PWR_MODERN --> PWR_FIN
 ```
-
-## Articles
-
-**Interpersonal Power**
-- [Frame Control Fundamentals](articles/frame-control.md) — `PWR_FRAME`
-- [Boundaries as Power Maintenance](articles/boundaries-as-power-maintenance.md) — `PWR_BOUND`
-- [Status Dynamics](articles/status-dynamics.md) — `PWR_STATUS`
-- [Polarity Dynamics](articles/polarity-dynamics.md) — `PWR_POLARITY`
-
-**Structural Power**
-- [Hierarchy & Power Structures](articles/hierarchy-and-power-structures.md) — `PWR_HIER`
-- [Power & Ownership](articles/power-and-ownership.md) — `PWR_OWNER`
-- [Supremacy & Dominance Dynamics](articles/dominance-and-supremacy.md) — `PWR_DOMINANCE`
-
-**Power at Scale**
-- [Historical Power](articles/historical-power.md) — `PWR_HISTORY`
-- [Propaganda & Manufactured Belief](articles/propaganda-and-manufactured-belief.md) — `PWR_PROP`
-- [Institutional & Network Power](articles/institutional-and-network-power.md) — `PWR_MODERN`
 
 ## Related Trees
 

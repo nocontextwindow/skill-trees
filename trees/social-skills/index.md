@@ -3,10 +3,6 @@
 Communication, persuasion, and reading a room — the practical layer sitting
 on top of frame control and psychology.
 
-The structure runs from getting understood, to moving people, to the
-standing presence that makes both easier. Specific tactics and scenes are
-open questions *inside* these branches, not branches of their own.
-
 ## Tree
 
 ```mermaid
@@ -40,22 +36,6 @@ flowchart TD
     SOC_COMM --> SOC_PWR
     SOC_CONVO --> SOC_PSY
 ```
-
-## Articles
-
-**Foundation**
-- [Communication Fundamentals](articles/communication-fundamentals.md) — `SOC_COMM`
-- [Boundaries](articles/boundaries.md) — `SOC_BOUND`
-- [Storytelling & Narrative Framing](articles/storytelling-and-framing.md) — `SOC_STORY`
-
-**Persuasion**
-- [Persuasion & Rhetoric](articles/persuasion-and-rhetoric.md) — `SOC_PERSUADE`
-- [Influence](articles/influence.md) — `SOC_INFLUENCE`
-- [Debate](articles/debate.md) — `SOC_DEBATE`
-
-**Presence**
-- [Conversational Skill & Charisma](articles/charisma-and-conversation.md) — `SOC_CONVO`
-- [Networking](articles/networking.md) — `SOC_NETWORK`
 
 ## Related Trees
 

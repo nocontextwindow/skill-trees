@@ -55,29 +55,6 @@ flowchart TD
     ML_ALIGN --> ML_PP
 ```
 
-## Articles
-
-**Foundations**
-- [Math Foundations](articles/math-foundations.md) — `ML_MATH`
-- [Programming Foundations](articles/programming-foundations.md) — `ML_PROG`
-
-**Core ML**
-- [Supervised Learning](articles/supervised-learning.md) — `ML_SUP`
-- [Unsupervised Learning](articles/unsupervised-learning.md) — `ML_UNSUP`
-- [Model Evaluation & Validation](articles/model-evaluation-and-validation.md) — `ML_EVAL`
-
-**Deep Learning**
-- [Neural Network Fundamentals](articles/neural-network-fundamentals.md) — `ML_NN`
-- [Optimization for Deep Learning](articles/optimization-for-deep-learning.md) — `ML_OPT`
-- [Convolutional Networks](articles/convolutional-networks.md) — `ML_CNN`
-- [Sequence Models & Transformers](articles/sequence-models-and-transformers.md) — `ML_SEQ`
-
-**Frontier**
-- [Reinforcement Learning](articles/reinforcement-learning.md) — `ML_RL`
-- [Generative Models](articles/generative-models.md) — `ML_GEN`
-- [Interpretability & Explainability](articles/interpretability-and-explainability.md) — `ML_INTERP`
-- [AI Alignment & Safety](articles/ai-alignment-and-safety.md) — `ML_ALIGN`
-
 ## Related Trees
 
 - [Epistemology](../epistemology/index.md) — generalization is the problem

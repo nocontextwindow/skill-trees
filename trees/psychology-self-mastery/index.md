@@ -3,11 +3,6 @@
 The mechanics of running yourself on purpose: what's stable about a person,
 what moves them, and what can actually be changed by deciding to change it.
 
-The structure runs from description (what a person is) to drive (what makes
-them act) to control (what they can do about their own mind). Specific
-techniques and enthusiasms are open questions *inside* these branches, and
-where the evidence for a technique is thin, the article says so.
-
 ## Tree
 
 ```mermaid
@@ -43,23 +38,6 @@ flowchart TD
     PSY_AUTHOR --> PSY_PP
     PSY_COGCTRL --> PSY_SOC
 ```
-
-## Articles
-
-**Self-Concept**
-- [Personality Models](articles/personality-models.md) — `PSY_PERSONALITY`
-- [Ideal Self Concept](articles/ideal-self-concept.md) — `PSY_IDEAL`
-- [Self-Authoring & Personal Narrative](articles/self-authoring.md) — `PSY_AUTHOR`
-
-**Drive & Execution**
-- [Motivation — Theory & Practice](articles/motivation.md) — `PSY_MOTIVE`
-- [Habit Formation](articles/habit-formation.md) — `PSY_HABIT`
-- [Productivity Systems](articles/productivity-systems.md) — `PSY_PRODUCTIVITY`
-
-**Mental Control**
-- [Visualization Techniques](articles/visualization.md) — `PSY_VISUAL`
-- [Self-Hypnosis](articles/self-hypnosis.md) — `PSY_HYPNO`
-- [Cognitive Control & Meta-Cognition](articles/cognitive-control-and-metacognition.md) — `PSY_COGCTRL`
 
 ## Related Trees
 

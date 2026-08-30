@@ -41,22 +41,6 @@ flowchart TD
     BIO_NEURO --> BIO_ML
 ```
 
-## Articles
-
-**Foundations**
-- [Chemistry Foundations](articles/chemistry-foundations.md) — `BIO_CHEM`
-- [Cell Biology](articles/cell-biology.md) — `BIO_CELL`
-
-**Genetics & Evolution**
-- [Genetics & Molecular Biology](articles/genetics-and-molecular-biology.md) — `BIO_GENETICS`
-- [Evolutionary Biology](articles/evolutionary-biology.md) — `BIO_EVO`
-- [Ecology](articles/ecology.md) — `BIO_ECO`
-
-**Systems & Frontier**
-- [Physiology & Anatomy](articles/physiology-and-anatomy.md) — `BIO_PHYS`
-- [Neuroscience](articles/neuroscience.md) — `BIO_NEURO`
-- [Synthetic Biology / Biotech](articles/synthetic-biology-and-biotech.md) — `BIO_SYNBIO`
-
 ## Related Trees
 
 - [Statistics](../statistics/index.md) — `BIO_EVO` (population genetics) leans on

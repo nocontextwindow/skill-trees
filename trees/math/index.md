@@ -44,22 +44,6 @@ flowchart TD
     MATH_LINALG --> MATH_ML
 ```
 
-## Articles
-
-**Foundations**
-- [Algebra & Precalculus](articles/algebra-and-precalculus.md) — `MATH_ALGEBRA`
-- [Calculus](articles/calculus.md) — `MATH_CALC`
-- [Linear Algebra](articles/linear-algebra.md) — `MATH_LINALG`
-- [Differential Equations](articles/differential-equations.md) — `MATH_DIFFEQ`
-
-**Proof & Structure**
-- [Discrete Math & Proof](articles/discrete-math-and-proof.md) — `MATH_DISCRETE`
-- [Abstract Algebra](articles/abstract-algebra.md) — `MATH_ABSTRACT`
-
-**Analysis**
-- [Real Analysis](articles/real-analysis.md) — `MATH_REALANAL`
-- [Topology](articles/topology.md) — `MATH_TOPOLOGY`
-
 ## Related Trees
 
 - [Physics](../physics/index.md) — `MATH_LINALG` and `MATH_DIFFEQ` are

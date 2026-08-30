@@ -43,21 +43,6 @@ flowchart TD
     STAT_MULTI --> STAT_ECON
 ```
 
-## Articles
-
-**Foundations**
-- [Probability Theory](articles/probability-theory.md) — `STAT_PROB`
-- [Descriptive Statistics](articles/descriptive-statistics.md) — `STAT_DESC`
-
-**Inference**
-- [Statistical Inference](articles/statistical-inference.md) — `STAT_INFER`
-- [Bayesian Statistics](articles/bayesian-statistics.md) — `STAT_BAYES`
-- [Experimental Design & Causal Inference](articles/experimental-design-and-causal-inference.md) — `STAT_EXPDESIGN`
-
-**Modeling**
-- [Regression & Modeling](articles/regression-and-modeling.md) — `STAT_REGRESS`
-- [Multivariate & Time Series Methods](articles/multivariate-and-time-series-methods.md) — `STAT_MULTI`
-
 ## Related Trees
 
 - [Mathematics](../math/index.md) — `STAT_PROB` builds on `MATH_LINALG` and

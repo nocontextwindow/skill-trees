@@ -47,25 +47,6 @@ flowchart TD
     CE_MECH --> CE_MAT
 ```
 
-## Articles
-
-**Foundations**
-- [Engineering Math](articles/engineering-math.md) — `CE_MATH`
-- [Statics](articles/statics.md) — `CE_STATICS`
-- [Mechanics of Materials](articles/mechanics-of-materials.md) — `CE_MECH`
-
-**Structural & Geotechnical**
-- [Structural Analysis & Design](articles/structural-analysis-and-design.md) — `CE_STRUCT`
-- [Geotechnical Engineering](articles/geotechnical-engineering.md) — `CE_GEOTECH`
-
-**Fluids & Environment**
-- [Fluid Mechanics & Hydraulics](articles/fluid-mechanics-and-hydraulics.md) — `CE_FLUID`
-- [Environmental Engineering](articles/environmental-engineering.md) — `CE_ENV`
-
-**Delivery**
-- [Transportation Engineering](articles/transportation-engineering.md) — `CE_TRANSPORT`
-- [Construction Management](articles/construction-management.md) — `CE_CONST`
-
 ## Related Trees
 
 - [Mathematics](../math/index.md) — `CE_MATH` draws on `MATH_DIFFEQ`.

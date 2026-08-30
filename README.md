@@ -1,8 +1,8 @@
 # Skill Trees
 
 A personal map of concepts to learn and positions to work out. Each tree is
-a folder: an `index.md` holding the map (a Mermaid diagram plus links), and
-an `articles/` folder holding one article per topic.
+a folder with an `index.md` holding the map — a Mermaid diagram plus links.
+Articles get written by hand, per topic, only where a topic warrants one.
 
 ## Trees
 
@@ -43,39 +43,46 @@ an `articles/` folder holding one article per topic.
 
 ```
 trees/<tree>/
-  index.md            the map: blurb, Mermaid diagram, links into articles/
-  articles/
-    <topic>.md        one article per topic/question
+  index.md            the map: blurb, Mermaid diagram, related trees
+  articles/           articles I write, once a topic is worth one
+    <topic>.md
 personal/             documents about me rather than about a subject
 BOOKLIST.md           everything captured, by area, with read status
 ```
 
-The **index** is the map and nothing else — it shows how topics relate and
-links out. All actual content lives in **articles**, one file per topic, so
-a topic can grow to whatever length it deserves without bloating the map.
+A tree is a **map** — the diagram is the point. It shows how topics relate
+and how deep the domain goes.
+
+**Articles are written by hand, when a topic earns one.** They are not
+generated up front for every node — a tree with an article per node is a
+pile of encyclopedia entries nobody asked for. Most trees have no
+`articles/` folder at all, and that's the normal state. When one gets
+written, add it to the index under an `## Articles` heading.
+
+Right now only [Personal Philosophy](trees/personal-philosophy/index.md)
+and [Political Philosophy](trees/political-philosophy/index.md) have
+articles, and those are **question placeholders** — the questions to work
+through, with blank space for my answers.
 
 ## Article format
 
-Every article has the same four parts:
-
-1. **Framing** — what the topic is and what's actually contested in it.
-   Short. Enough to know why the questions below are the questions.
-2. **Open questions** — the real content. What needs an answer, stated as
-   questions rather than as a syllabus.
+1. **Framing** — short. Enough to know why the questions below are the
+   questions.
+2. **Open questions** — the real content, stated as questions rather than
+   as a syllabus.
 3. **Notes** — empty. Where working-out goes.
 4. **Resources** — **empty by default.** Only things actually read get
-   added here, by hand. Nothing gets pre-populated with recommendations —
-   an unread suggestion in a resource list is noise that looks like
-   progress.
+   added, by hand. Nothing gets pre-populated with recommendations — an
+   unread suggestion in a resource list is noise that looks like progress.
 
 ## Conventions
 
 - **Trees are built on the structure of the domain**, not on whatever
   happened to be interesting the day the tree was made. Specific interests,
-  positions, and pet topics belong as **open questions inside** the
-  relevant article — not as their own top-level branch. If a topic can't
-  be stated as a question under an existing branch, that's a sign the
-  branch structure is wrong, not that the topic needs its own box.
+  positions, and pet topics belong *inside* the relevant branch — not as
+  their own top-level box. If a topic can't be placed under an existing
+  branch, that's a sign the branch structure is wrong, not that the topic
+  needs its own box.
 - **Open questions over checklists.** These are for working something out,
   not for clearing a syllabus. Prefer a question with no answer yet to a
   node with a definition already filled in.
@@ -94,7 +101,7 @@ Every article has the same four parts:
 
 ## Adding a tree
 
-1. `trees/<name>/index.md` with the blurb, diagram, and article links.
-2. `trees/<name>/articles/<topic>.md` per topic, in the four-part format.
-3. Add it to the list above, link it both ways from any tree it overlaps,
-   and add a heading in [BOOKLIST.md](BOOKLIST.md).
+1. `trees/<name>/index.md` with the blurb and diagram. That's the whole
+   tree — no articles until one is actually worth writing.
+2. Add it to the list above and link it both ways from any tree it
+   overlaps.
