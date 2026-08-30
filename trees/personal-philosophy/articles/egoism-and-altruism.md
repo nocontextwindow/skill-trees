@@ -1,27 +1,24 @@
 # Egoism & Altruism
 
-[← Personal Philosophy](../index.md) · `PP_EGOISM`
+`PP_EGOISM` · [← Personal Philosophy](../index.md)
 
-Whether the moral agent's own interest is the proper end of action, or
-whether morality is precisely the part that overrides self-interest. The
-strongest egoist position is not "do whatever you want" but a claim about
-*rational* self-interest, with force and fraud ruled out on principle and
-trade rather than sacrifice as the model of dealing with others. The
-strongest objection is that this either quietly redefines self-interest
-until it includes everything altruism wanted, or has nothing to say in the
-cases where interests genuinely and irreducibly conflict.
+Whether one's own interest is the proper end of action, or whether morality is what overrides it.
 
-## Open questions
+## Questions
 
-- What is the strongest form of the altruist case — stated well enough
-  that it isn't easy to answer?
-- Does rational egoism handle genuine conflicts of interest, or define
-  them away?
-- Is benevolence toward others a derived self-interest, an independent
-  value, or a sentiment with no moral standing?
-- Where is the line between sacrifice and investment, and who decides it in
-  a given case?
+- What is the strongest altruist case — stated well enough that it isn't easy to answer?
+- Does rational egoism handle genuine conflicts of interest, or define them away?
+- Is benevolence a derived self-interest, an independent value, or a sentiment with no moral standing?
+- Where's the line between sacrifice and investment, and who draws it in a given case?
 - Does an egoist ethics scale to a political order, or break at scale?
+
+## Challenges & perspectives
+
+- Rational egoism: self-interest properly understood, with force and fraud ruled out, trade not sacrifice.
+- Psychological egoism: everyone is already selfish — usually held to be unfalsifiable.
+- Standard objection: egoism either redefines self-interest until it swallows altruism, or has nothing to say when interests really conflict.
+- Effective altruism: impartial weighting of everyone's interests, including strangers'.
+- Middle positions: agent-centered prerogatives permitting partiality without full egoism.
 
 ## Notes
 

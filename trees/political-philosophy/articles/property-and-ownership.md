@@ -1,23 +1,24 @@
 # Property & Ownership
 
-[← Political Philosophy](../index.md) · `POL_PROPERTY`
+`POL_PROPERTY` · [← Political Philosophy](../index.md)
 
-Ownership is a bundle of enforceable claims — to use, to exclude, to
-transfer — rather than a single simple relation, and different regimes
-distribute those claims differently. The hard problem is original
-acquisition: how something unowned becomes legitimately owned, and whether
-any actual chain of title survives inspection back to its origin.
+A bundle of enforceable claims — to use, to exclude, to transfer — rather than one simple relation.
 
-## Open questions
+## Questions
 
-- What legitimates original acquisition, and does any real title survive
-  tracing?
-- Is property a natural right, a convention that proved useful, or a
-  standing act of enforcement?
-- Does control without formal ownership matter more in practice than
-  ownership itself?
+- What legitimates original acquisition, and does any real title survive tracing?
+- Is property a natural right, a useful convention, or a standing act of enforcement?
+- Does control without formal ownership matter more in practice than ownership?
 - What justifies inheritance, if anything?
 - Are there things that shouldn't be ownable, and on what principle?
+
+## Challenges & perspectives
+
+- Locke's labor-mixing, with the proviso that "enough and as good" be left for others.
+- Proudhon: property is theft. Rejoinder: theft presupposes property.
+- Georgism: land is different from produced goods and should be taxed accordingly.
+- Hume/Bentham: property is convention justified by its consequences, not natural right.
+- The acquisition problem is the weak point of every historical-entitlement theory.
 
 ## Notes
 

@@ -1,24 +1,24 @@
 # Forms of Government
 
-[← Political Philosophy](../index.md) · `POL_FORMS`
+`POL_FORMS` · [← Political Philosophy](../index.md)
 
-The classical taxonomy — rule by one, few, or many, each with a corrupt
-counterpart — plus the mixed-constitution tradition that tries to set the
-forms against each other. Modern variants add the separation of powers,
-federalism, and constitutional constraint. The recurring question is
-whether any form is stable, or whether all of them decay in a predictable
-sequence.
+Rule by one, few, or many — each with a corrupt counterpart — plus the mixed and constitutional variants.
 
-## Open questions
+## Questions
 
-- Is there a best form of government, or only forms better suited to
-  particular peoples and conditions?
+- Is there a best form, or only forms suited to particular peoples and conditions?
 - Do all forms decay predictably, and can decay be designed against?
 - Is democracy valuable intrinsically or only instrumentally?
-- What does competence-based rule get right, and what makes it hard to
-  institutionalize without capture?
-- How much does the written constitution matter relative to the unwritten
-  norms around it?
+- What does competence-based rule get right, and why is it hard to institutionalize without capture?
+- How much does the written constitution matter relative to unwritten norms?
+
+## Challenges & perspectives
+
+- Aristotle's six-fold classification; Polybius on cyclical decay.
+- Mixed constitution and separation of powers as attempts to set forms against each other.
+- Epistemic democracy: many imperfect judgments aggregate better than few good ones.
+- Epistocracy: rule by the knowledgeable — with the standing problem of who certifies them.
+- Iron law of oligarchy: all organizations tend toward rule by a few regardless of form.
 
 ## Notes
 

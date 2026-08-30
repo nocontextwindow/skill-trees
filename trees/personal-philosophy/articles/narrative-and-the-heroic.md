@@ -1,26 +1,24 @@
 # Narrative & the Heroic
 
-[← Personal Philosophy](../index.md) · `PP_NARRATIVE`
+`PP_NARRATIVE` · [← Personal Philosophy](../index.md)
 
-Humans structure their lives as stories, and the hero pattern — call,
-refusal, threshold, ordeal, return transformed — recurs across cultures
-persistently enough to demand explanation. Whether that recurrence
-indicates something real about the structure of a well-lived life, or just
-a satisfying narrative template our cognition finds easy to store, is the
-open question. A related frame treats meaning as located at the border
-between order and chaos, with the heroic act being the one that brings
-structure out of the unknown without hardening into rigidity.
+The recurring hero pattern — call, refusal, threshold, ordeal, return — and whether it reveals anything true.
 
-## Open questions
+## Questions
 
-- Does the recurrence of the hero pattern reveal something true, or only
-  something memorable?
-- Where am I in that structure right now, and what call am I currently
-  refusing?
+- Does the pattern's recurrence indicate something real, or only something memorable?
+- Where am I in that structure now, and what call am I currently refusing?
 - Is the order/chaos framing explanatory or just evocative?
-- Which heroic narratives actually encode virtues worth having, and which
-  are power fantasy with good pacing?
-- What's the failure mode of taking one's own life as a heroic narrative?
+- Which heroic narratives encode virtues worth having, and which are power fantasy with good pacing?
+- What's the failure mode of casting your own life as a heroic narrative?
+
+## Challenges & perspectives
+
+- Campbell's monomyth: one deep structure under many cultures' stories.
+- Jungian reading: archetypes as features of the psyche, not of the world.
+- Meaning at the border of order and chaos; the hero brings structure from the unknown without becoming tyrant.
+- Critique: the monomyth is drawn so loosely it fits almost any story, so it explains nothing.
+- Narrative identity research: people really do structure life as story — which may be a bias, not an insight.
 
 ## Notes
 

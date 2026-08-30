@@ -1,28 +1,24 @@
 # Living It
 
-[← Personal Philosophy](../index.md) · `PP_PRACTICE`
+`PP_PRACTICE` · [← Personal Philosophy](../index.md)
 
-Ethics under real conditions: incomplete information, weak will,
-competing obligations, and social pressure. This is where a system either
-proves itself or reveals that it was only ever a debating position.
-Traditions that emphasize acceptance of what can't be controlled and
-rigorous attention to what can — the Stoic line among them — sit
-awkwardly next to traditions that make achievement and productive work
-central virtues, and the tension between them is worth resolving rather
-than papering over.
+Ethics under real conditions — incomplete information, weak will, competing obligations, social pressure.
 
-## Open questions
+## Questions
 
-- Where does my stated ethics currently fail to survive contact with my
-  actual behavior?
-- How should indifference to externals be reconciled with treating
-  achievement as a virtue — are they answering different questions?
-- What's the right response to a genuine moral dilemma where every option
-  violates something I hold?
-- How much should social consequence weigh when it conflicts with a
-  principle?
-- What's the mechanism for actually changing behavior once a conclusion is
-  reached?
+- Where does my stated ethics currently fail to survive contact with my behavior?
+- How should indifference to externals square with treating achievement as a virtue?
+- What's the right response to a dilemma where every option violates something I hold?
+- How much should social consequence weigh against a principle?
+- What actually changes behavior once a conclusion is reached?
+
+## Challenges & perspectives
+
+- Akrasia: knowing the good and not doing it is the oldest problem here.
+- Stoic line: focus on what's in your control, treat externals as indifferent.
+- Achievement-centered line: productive work is a virtue, not an indifferent.
+- Moral luck: outcomes we don't control affect how we're judged, and we can't stop that mattering.
+- Rule-following vs. case-by-case judgment as the practical failure modes of each other.
 
 ## Notes
 

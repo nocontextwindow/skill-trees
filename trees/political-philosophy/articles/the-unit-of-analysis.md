@@ -1,25 +1,23 @@
 # The Unit of Analysis
 
-[← Political Philosophy](../index.md) · `POL_UNIT`
+`POL_UNIT` · [← Political Philosophy](../index.md)
 
 Whether the individual or the group is the fundamental political entity.
-Individualist accounts treat groups as aggregates with no interests beyond
-those of their members; collectivist ones treat the group as having real
-claims that can override individual ones. This determines what counts as a
-harm, who can be owed something, and whether interests of a nation, class,
-or people are anything more than shorthand.
 
-## Open questions
+## Questions
 
-- Is there anything that a group can be owed that its members individually
-  cannot?
-- Does an ethics of rational self-interest scale into a political
-  principle, or does it break where interests genuinely conflict?
-- What is the strongest collectivist case — stated so it isn't a
-  caricature?
-- Can group membership generate obligations that were never consented to?
-- Are nations, classes, and peoples real political entities or useful
-  abstractions?
+- Is there anything a group can be owed that its members individually cannot?
+- Does an ethics of rational self-interest scale into a political principle, or break where interests conflict?
+- What's the strongest collectivist case, stated so it isn't a caricature?
+- Can group membership generate obligations never consented to?
+- Are nations, classes, and peoples real entities or useful abstractions?
+
+## Challenges & perspectives
+
+- Methodological individualism: groups are aggregates with no interests beyond members'.
+- Communitarian reply: the self is constituted by its attachments, so the "unencumbered individual" is fiction.
+- Corporate agency: some groups do seem to have interests and responsibilities members lack.
+- Determines what counts as a harm and who can be owed anything.
 
 ## Notes
 

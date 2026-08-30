@@ -66,14 +66,16 @@ through, with blank space for my answers.
 
 ## Article format
 
-1. **Framing** — short. Enough to know why the questions below are the
-   questions.
-2. **Open questions** — the real content, stated as questions rather than
-   as a syllabus.
-3. **Notes** — empty. Where working-out goes.
+Lightweight. One sentence defining the thing, then:
+
+1. **Questions** — the point of the file.
+2. **Challenges & perspectives** — the standard objections and rival
+   positions, one line each. Named positions, not essays.
+3. **Notes** — empty. Where my answers go.
 4. **Resources** — **empty by default.** Only things actually read get
-   added, by hand. Nothing gets pre-populated with recommendations — an
-   unread suggestion in a resource list is noise that looks like progress.
+   added, by hand.
+
+No framing essays, no prose explaining the topic to me.
 
 ## Conventions
 

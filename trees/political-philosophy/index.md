@@ -1,14 +1,11 @@
 # Political Philosophy
 
-Working political positions down to root principles — far enough down that
-they can be defended, and far enough that the opposing ones can be
-countered at the root rather than at the slogan.
+Positions worked down to root principles — far enough to defend them, and
+far enough to counter the opposing ones at the root rather than the slogan.
+Articles are questions to work through, not write-ups.
 
-The structure is the standard architecture of political philosophy.
-Specific contemporary disputes live as open questions inside the branch
-they actually belong to. **Every contested question here gets the
-steelman first** — reconstruct the opposing position at its strongest
-before answering it, or the answer is worthless.
+**Steelman first** — reconstruct the opposing position at its strongest
+before answering it.
 
 ## Tree
 

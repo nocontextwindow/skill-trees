@@ -1,23 +1,24 @@
 # Liberty & Its Limits
 
-[← Political Philosophy](../index.md) · `POL_LIBERTY`
+`POL_LIBERTY` · [← Political Philosophy](../index.md)
 
-Negative liberty is freedom from interference; positive liberty is the
-actual capacity to act, which can be reduced by poverty or ignorance as
-well as by coercion. The harm principle offers one limit — restrain only
-what harms others — but does almost no work until "harm" is defined, and
-every serious dispute is a dispute about that definition.
+Freedom from interference, freedom to actually act, and where either may be restricted.
 
-## Open questions
+## Questions
 
-- What counts as harm? Does offense, exploitation, or diffuse social
-  damage qualify?
-- Is positive liberty a genuine kind of freedom or a category confusion
-  that licenses coercion?
-- Where is my own line between liberty and order, and am I consistent
-  about it across issues I like and dislike?
+- What counts as harm? Does offense, exploitation, or diffuse social damage qualify?
+- Is positive liberty a genuine kind of freedom or a confusion that licenses coercion?
+- Where's my line between liberty and order, and am I consistent across issues I like and dislike?
 - Can someone be coerced for their own good, ever?
 - Does liberty have value independent of what it's used for?
+
+## Challenges & perspectives
+
+- Berlin's negative/positive distinction, and his warning that positive liberty slides into forcing people to be "truly" free.
+- Mill's harm principle — which does no work until "harm" is defined.
+- Republican liberty as non-domination rather than non-interference.
+- Paternalism, soft and hard; nudging as a contested middle.
+- Every serious dispute here is a dispute about the definition of harm.
 
 ## Notes
 

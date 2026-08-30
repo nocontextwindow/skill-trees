@@ -1,25 +1,24 @@
 # Axiology — What Value Is
 
-[← Personal Philosophy](../index.md) · `PP_AXIOLOGY`
+`PP_AXIOLOGY` · [← Personal Philosophy](../index.md)
 
-The theory of value, prior to any particular claim about what's good. The
-central structural question is whether value is relational — value *to*
-some valuer, *for* some end — or whether things can be valuable full stop,
-with no one they're valuable to. Intrinsic-value theories say the latter;
-agent-relative theories say value only arises where there's an entity with
-something at stake. Almost every disagreement further down in ethics
-traces back to this fork.
+The theory of value itself, prior to any claim about what's good.
 
-## Open questions
+## Questions
 
-- Is value relational or intrinsic — and what's the cost of each answer?
-- Does value require an entity that can gain or lose something? What
-  follows if it does?
-- Are there values I hold that survive the question "valuable to whom, for
-  what"?
-- Is the fact/value distinction real, or an artifact of a particular
-  epistemology?
+- Is value relational or intrinsic — and what does each answer cost?
+- Does value require an entity with something at stake?
+- Are there values I hold that survive "valuable to whom, for what"?
+- Is the fact/value distinction real or an artifact of a particular epistemology?
 - Can values be ranked objectively, or only within a chosen framework?
+
+## Challenges & perspectives
+
+- Intrinsic value: some things are valuable full stop, with no one they're valuable to.
+- Agent-relative value: value only arises where something can be gained or lost.
+- Moore's open question: any naturalistic definition of "good" leaves "but is it good?" sensible.
+- Error theory: value talk is systematically false but useful.
+- Most disputes further down in ethics trace back to this fork.
 
 ## Notes
 

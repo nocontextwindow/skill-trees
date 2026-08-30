@@ -1,24 +1,24 @@
 # Justice & Distribution
 
-[← Political Philosophy](../index.md) · `POL_JUSTICE`
+`POL_JUSTICE` · [← Political Philosophy](../index.md)
 
-Whether justice is about the *process* by which holdings arose — just
-acquisition and just transfer, with any resulting pattern acceptable — or
-about the *pattern* itself, judged against equality, need, or desert.
-Process accounts and pattern accounts are hard to reconcile because
-maintaining any pattern requires continual interference with voluntary
-transfers.
+Whether justice concerns the process by which holdings arose or the pattern that results.
 
-## Open questions
+## Questions
 
-- Is justice procedural or patterned, and can the two be reconciled at
-  all?
+- Procedural or patterned — can the two be reconciled at all?
 - Does desert do real work, given how much of capacity is unchosen?
-- What's the strongest egalitarian argument, stated at full strength?
-- Is inequality itself a harm, or only the conditions that produce or
-  accompany it?
-- What is owed to those who cannot contribute, and on what grounds rather
-  than sentiment?
+- What's the strongest egalitarian argument at full strength?
+- Is inequality itself a harm, or only the conditions producing or accompanying it?
+- What's owed to those who can't contribute, on what grounds rather than sentiment?
+
+## Challenges & perspectives
+
+- Nozick: just acquisition plus just transfer equals a just result, whatever the pattern.
+- Rawls: inequalities are justified only if they benefit the worst off.
+- Wilt Chamberlain argument: maintaining any pattern requires continual interference with voluntary transfers.
+- Luck egalitarianism: compensate for unchosen disadvantage, not chosen risk.
+- Sufficientarianism and prioritarianism as alternatives to strict equality.
 
 ## Notes
 

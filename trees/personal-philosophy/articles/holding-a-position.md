@@ -1,24 +1,23 @@
 # Holding a Position
 
-[← Personal Philosophy](../index.md) · `PP_METHOD`
+`PP_METHOD` · [← Personal Philosophy](../index.md)
 
-The meta-skill: how to hold a belief so that it can be revised without the
-whole structure collapsing, and so that revision is driven by argument
-rather than by social pressure or fatigue. Includes the discipline of
-steelmanning — reconstructing an opposing position in its strongest form
-before answering it — and of noticing when a position is being defended
-for reasons other than the ones being stated.
+How to hold a belief so it can be revised by argument rather than by social pressure or fatigue.
 
-## Open questions
+## Questions
 
-- What would actually change my mind on each of my major positions? If
-  nothing would, is it a position or an identity?
-- How do I distinguish "this survived scrutiny" from "I'm tired of being
-  challenged on it"?
-- Is intellectual consistency a virtue in itself, or only instrumentally?
-- What's the honest failure rate of my own reasoning under motivated
-  conditions?
+- What would change my mind on each major position? If nothing would, is it a position or an identity?
+- How do I tell "this survived scrutiny" from "I'm tired of being challenged"?
+- Is consistency a virtue in itself or only instrumentally?
+- What's my honest failure rate under motivated conditions?
 - When is it correct to hold a position I can't fully defend yet?
+
+## Challenges & perspectives
+
+- Steelmanning first: a counter to a strawman is worthless.
+- Conservatism of belief: some inertia is rational, or you'd be blown around by every clever argument.
+- Foxes vs. hedgehogs — whether one big idea or many small ones tracks truth better.
+- Risk: performative open-mindedness that never actually updates.
 
 ## Notes
 

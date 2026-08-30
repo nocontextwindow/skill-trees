@@ -1,25 +1,24 @@
 # Proper Scope of the State
 
-[← Political Philosophy](../index.md) · `POL_SCOPE`
+`POL_SCOPE` · [← Political Philosophy](../index.md)
 
-What the state should do, ranging from the minimal account (protection
-against force and fraud, enforcement of contract) through provision of
-public goods to substantive shaping of the culture and character of
-citizens. The minimal position is cleanest in principle but has to explain
-public goods, externalities, and the fact that the "neutral" state is
-already enforcing a particular moral settlement.
+What the state should do, from protection against force alone to shaping the character of citizens.
 
-## Open questions
+## Questions
 
-- What is the state actually for, stated as a principle rather than a
-  list?
-- Can a state be neutral between conceptions of the good, or is neutrality
-  itself a substantive position?
-- Which functions genuinely require a state rather than voluntary
-  arrangement?
+- What is the state for, as a principle rather than a list?
+- Can a state be neutral between conceptions of the good, or is neutrality itself substantive?
+- Which functions genuinely require a state rather than voluntary arrangement?
 - Does the state have any business shaping character or culture?
-- What checks reliably keep scope from expanding, given that none have so
-  far?
+- What checks reliably keep scope from expanding, given that none have so far?
+
+## Challenges & perspectives
+
+- Minimal state: force, fraud, contract, and nothing else.
+- Public goods and externalities as the standard argument for going further.
+- Perfectionism: the state should promote a substantive vision of the good life.
+- Anarchist claim that even protection can be provided voluntarily.
+- Liberal neutrality is charged with being a substantive moral position pretending not to be.
 
 ## Notes
 

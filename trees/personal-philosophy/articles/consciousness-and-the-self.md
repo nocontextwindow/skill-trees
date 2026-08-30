@@ -1,26 +1,24 @@
 # Consciousness & the Self
 
-[← Personal Philosophy](../index.md) · `PP_MIND`
+`PP_MIND` · [← Personal Philosophy](../index.md)
 
-What consciousness is, and whether the self that has it is a thing or a
-process. The hard problem — why physical processing is accompanied by
-subjective experience at all — resists the usual reductive moves. The
-self is separately contested: a persisting substance, a bundle of
-experiences with no owner, or a narrative the brain constructs and
-mistakes for a discovery.
+What consciousness is, and whether the self that has it is a thing or a process.
 
-## Open questions
+## Questions
 
-- Is consciousness reducible to physical process, and what would count as
-  showing that either way?
-- Is there a continuous self, or a sequence of states with a story laid
-  over them?
-- If the self is partly constructed, who or what is doing the
-  constructing?
-- Does the answer change what I owe my future self, or what my past self
-  obligated me to?
-- What would it take for something non-biological to have the thing I
-  have?
+- Is consciousness reducible to physical process? What would show that either way?
+- Is there a continuous self, or a sequence of states with a story laid over them?
+- If the self is constructed, who is doing the constructing?
+- Does the answer change what I owe my future self?
+- What would it take for something non-biological to have what I have?
+
+## Challenges & perspectives
+
+- The hard problem: why is physical processing accompanied by experience at all?
+- Physicalism, dualism, functionalism, panpsychism as the standard menu.
+- Bundle theory: no owner, just experiences.
+- Narrative self: the brain builds a story and mistakes it for a discovery.
+- Deflationary view: "the self" is a useful fiction and nothing is lost by saying so.
 
 ## Notes
 

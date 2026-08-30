@@ -1,12 +1,7 @@
 # Personal Philosophy
 
-Constructing a philosophy from the ground up — not collecting positions,
-but working out what depends on what, so that the ethics rests on a
-metaphysics and the aesthetics isn't floating free of either.
-
-The structure below is the classical construction of a philosophical
-system. Specific thinkers, traditions, and positions are open questions
-*inside* these branches, not branches of their own.
+Constructing a philosophy from the ground up, on the classical branches.
+Articles are questions to work through, not write-ups.
 
 ## Tree
 

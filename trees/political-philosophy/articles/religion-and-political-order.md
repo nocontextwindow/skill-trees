@@ -1,26 +1,24 @@
 # Religion & Political Order
 
-[← Political Philosophy](../index.md) · `POL_RELIGION`
+`POL_RELIGION` · [← Political Philosophy](../index.md)
 
-What religion does for a political order independent of whether its claims
-are true: shared ritual, common moral vocabulary, multigenerational trust,
-a check on unbounded individual will, and a source of legitimacy that
-doesn't depend on performance. Against that: the critique that religion is
-a vector for tribalism and false belief, and that fusing religious and
-political authority removes the last check on power by putting it beyond
-appeal.
+What religion does for a political order, independent of whether its claims are true.
 
-## Open questions
+## Questions
 
-- What is religion actually doing functionally, and can anything secular
-  do it as well?
-- Is a conception of the divine useful even under an atheistic
-  metaphysics — and does it matter whether it's true if the function holds?
-- What specifically goes wrong in a theocracy: something inherent to fusing
-  the authorities, or something contingent about particular cases?
-- Can a "spiritual" domain be defined that's compatible with rationality
-  without collapsing into either materialism or theism?
-- What's the strongest anti-religious case, stated at full strength?
+- What is religion doing functionally, and can anything secular do it as well?
+- Is a conception of the divine useful even under an atheistic metaphysics — and does its truth matter if the function holds?
+- What specifically goes wrong in a theocracy: something inherent to fusing the authorities, or contingent to particular cases?
+- Can a "spiritual" domain be defined that's compatible with rationality without collapsing into materialism or theism?
+- What's the strongest anti-religious case at full strength?
+
+## Challenges & perspectives
+
+- Durkheimian function: ritual, shared vocabulary, cohesion, legitimacy independent of performance.
+- Critique: a vector for tribalism and false belief, on net.
+- Fusing religious and political authority removes the last check by putting power beyond appeal.
+- Civil religion as a secular substitute — and the question of whether substitutes hold.
+- Secularization thesis and its empirical trouble.
 
 ## Notes
 

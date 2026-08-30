@@ -1,25 +1,24 @@
 # Consent & the Social Contract
 
-[← Political Philosophy](../index.md) · `POL_CONTRACT`
+`POL_CONTRACT` · [← Political Philosophy](../index.md)
 
-The contractarian tradition grounds political authority in agreement —
-actual, tacit, or hypothetical — among those subject to it. The
-state-of-nature device varies with the theorist's view of human nature,
-and yields correspondingly different conclusions about how much authority
-is justified. The standing objection is that nobody actually signed
-anything, which forces the theory back onto tacit or hypothetical consent,
-both of which do much weaker work.
+Grounding political authority in agreement among those subject to it.
 
-## Open questions
+## Questions
 
-- Does tacit consent do any real justificatory work, or is it a fiction
-  covering an unjustified arrangement?
-- Is the state of nature a historical claim, an analytical device, or a
-  rhetorical one?
-- Can hypothetical consent — what a rational person *would* agree to —
-  bind an actual person who doesn't?
-- What follows for someone who explicitly withholds consent?
+- Does tacit consent do real justificatory work, or cover an unjustified arrangement?
+- Is the state of nature a historical claim, an analytical device, or a rhetorical one?
+- Can hypothetical consent bind an actual person who withholds it?
+- What follows for someone who explicitly refuses?
 - Is there a non-contractarian grounding that does the job better?
+
+## Challenges & perspectives
+
+- Hobbes, Locke, Rousseau reach different conclusions from the same device — the difference is their view of human nature.
+- Rawls' original position: consent behind a veil of ignorance.
+- Hume's objection: nobody signed anything, and emigration isn't a real alternative for most.
+- Actual vs. tacit vs. hypothetical consent, each weaker than the last.
+- Feminist and racial-contract critiques: the contract was made among some and imposed on others.
 
 ## Notes
 

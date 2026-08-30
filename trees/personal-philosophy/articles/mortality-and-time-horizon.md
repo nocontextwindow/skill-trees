@@ -1,23 +1,24 @@
 # Mortality & Time Horizon
 
-[← Personal Philosophy](../index.md) · `PP_MORTALITY`
+`PP_MORTALITY` · [← Personal Philosophy](../index.md)
 
-How the fact of a finite life should bear on how it's spent — and whether
-finitude is a constraint to be fought or a condition that makes urgency
-and value possible at all. A philosophy that takes life as the standard of
-value seems to imply that more of it is better without limit; traditions
-that treat acceptance of mortality as central say the opposite. The
-disagreement is substantive, not verbal.
+How a finite life should bear on how it's spent, and whether finitude is a constraint or a condition of value.
 
-## Open questions
+## Questions
 
-- Is indefinite life extension the consistent extension of a life-centered
-  ethics, or does it conflict with something else in it?
+- Is indefinite life extension the consistent extension of a life-centered ethics, or in conflict with it?
 - Does finitude create value or only pressure?
-- What time horizon should I actually be optimizing over, and does my
-  behavior match it?
-- What do I owe to a future self who may not share my current values?
-- Is the desire to be remembered rational, vain, or something else?
+- What horizon am I actually optimizing over, and does my behavior match it?
+- What do I owe a future self who may not share my values?
+- Is wanting to be remembered rational, vain, or something else?
+
+## Challenges & perspectives
+
+- Epicurus: death is nothing to us, since where death is, we are not.
+- Stoic acceptance of mortality as central to living well.
+- Life-as-standard seems to imply more life is better without limit.
+- Williams' argument that an endless life would become tedious and self-alienating.
+- Discounting the future is either rational risk-adjustment or a cognitive bias — the two are hard to separate.
 
 ## Notes
 
