@@ -47,7 +47,7 @@ flowchart TD
 
 - [Mathematics](../math/index.md) — `STAT_PROB` builds on `MATH_LINALG` and
   `MATH_REALANAL`.
-- [Epistemology](../epistemology/index.md) — `STAT_BAYES` is `EP_BAYES` in
+- [Epistemology](../../self/epistemology/index.md) — `STAT_BAYES` is `EP_BAYES` in
   practice.
 - [Machine Learning / AI](../machine-learning-ai/index.md) — `STAT_MULTI` feeds
   `ML_MATH` and `ML_EVAL`.

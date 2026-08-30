@@ -57,13 +57,13 @@ flowchart TD
 
 ## Related Trees
 
-- [Epistemology](../epistemology/index.md) — generalization is the problem
+- [Epistemology](../../self/epistemology/index.md) — generalization is the problem
   of induction, and model evaluation is applied Bayesian reasoning.
 - [Statistics](../statistics/index.md) — the inference and estimation
   theory underneath all of it.
 - [Physics](../physics/index.md) — statistical mechanics, which diffusion
   models borrow from directly.
-- [Personal Philosophy](../personal-philosophy/index.md) — where alignment
+- [Personal Philosophy](../../self/personal-philosophy/index.md) — where alignment
   stops being a technical question and becomes an ethical one.
 
 See also: [Book List](../../BOOKLIST.md).

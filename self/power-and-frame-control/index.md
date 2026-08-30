@@ -51,10 +51,10 @@ flowchart TD
   phenomena get argued about as legitimacy rather than as mechanics.
 - [Personal Philosophy](../personal-philosophy/index.md) — what occupying a
   position of power does to the person occupying it.
-- [Finance](../finance/index.md) — where the allocation of capital becomes
+- [Finance](../../disciplines/finance/index.md) — where the allocation of capital becomes
   a form of institutional power.
 
-- [Social Identity](../../personal/social-identity.md) — identity as the
+- [Social Identity](../social-identity.md) — identity as the
   thing being claimed, granted, and contested.
 
 See also: [Book List](../../BOOKLIST.md).

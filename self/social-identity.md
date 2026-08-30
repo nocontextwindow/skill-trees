@@ -35,7 +35,7 @@ A role is a bundle of expectations that attaches to a position, not to a
 person — occupying it changes what people read into identical behavior.
 Role conflict (occupying two roles with incompatible expectations) and
 role strain (one role demanding more than can be given) are the standard
-failure modes. See [Role, Duty & the Binding Figure](../trees/personal-philosophy/articles/role-duty-and-the-binding-figure.md).
+failure modes. See [Role, Duty & the Binding Figure](personal-philosophy/articles/role-duty-and-the-binding-figure.md).
 
 ### Impression management
 
@@ -116,9 +116,9 @@ _(not yet written)_
 ## Related
 
 - [Self-Map](self-map.md) — the internal counterpart to this file.
-- [Social Skills](../trees/social-skills/index.md) — the mechanics of
+- [Social Skills](social-skills/index.md) — the mechanics of
   operating the interface.
-- [Power & Frame Control](../trees/power-and-frame-control/index.md) —
+- [Power & Frame Control](power-and-frame-control/index.md) —
   status, frames, and how identity is contested in practice.
-- [Psychology & Self-Mastery](../trees/psychology-self-mastery/index.md) —
+- [Psychology & Self-Mastery](psychology-self-mastery/index.md) —
   self-concept and personal narrative.

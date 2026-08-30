@@ -46,7 +46,7 @@ flowchart TD
 - [Social Skills](../social-skills/index.md) — cognitive control is a
   prerequisite for reliable communication under pressure.
 
-- [Self-Map](../../personal/self-map.md) — where this tree's models get
+- [Self-Map](../self-map.md) — where this tree's models get
   applied to my own case.
 
 See also: [Book List](../../BOOKLIST.md).

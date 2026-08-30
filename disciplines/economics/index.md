@@ -53,7 +53,7 @@ flowchart TD
   empirical claim in this tree depends on.
 - [Finance](../finance/index.md) — where money and asset prices get
   treated as a subject in their own right.
-- [Political Philosophy](../political-philosophy/index.md) — the
+- [Political Philosophy](../../self/political-philosophy/index.md) — the
   questions about property and distribution that economics inherits
   rather than answers.
 

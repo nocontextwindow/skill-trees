@@ -165,7 +165,7 @@ _(not yet written)_
 ## Related
 
 - [Social Identity](social-identity.md) — the outward-facing counterpart.
-- [Psychology & Self-Mastery](../trees/psychology-self-mastery/index.md) —
+- [Psychology & Self-Mastery](psychology-self-mastery/index.md) —
   personality models, the ideal-self concept, self-authoring.
-- [Personal Philosophy](../trees/personal-philosophy/index.md) — the values
+- [Personal Philosophy](personal-philosophy/index.md) — the values
   side, worked out abstractly rather than personally.

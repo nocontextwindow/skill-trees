@@ -60,9 +60,9 @@ flowchart TD
 
 - [Personal Philosophy](../personal-philosophy/index.md) — `EP_INTRO`
   underlies the whole worldview-building project.
-- [Physics](../physics/index.md) — `EP_SCI` (induction/falsifiability) is the
+- [Physics](../../disciplines/physics/index.md) — `EP_SCI` (induction/falsifiability) is the
   philosophical backbone of `PH_PHILO` (interpretations of QM).
-- [Machine Learning / AI](../machine-learning-ai/index.md) — `EP_BAYES` maps
+- [Machine Learning / AI](../../disciplines/machine-learning-ai/index.md) — `EP_BAYES` maps
   directly onto `ML_EVAL`; the induction problem in `EP_SCI` is exactly the
   generalization problem in ML.
 

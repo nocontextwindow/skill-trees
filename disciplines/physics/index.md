@@ -56,14 +56,14 @@ flowchart TD
 
 ## Related Trees
 
-- [Epistemology](../epistemology/index.md) — `PH_PHILO` is a direct
+- [Epistemology](../../self/epistemology/index.md) — `PH_PHILO` is a direct
   application of `EP_SCI` (induction/falsifiability).
 - [Machine Learning / AI](../machine-learning-ai/index.md) — `PH_THERMO`
   (statistical mechanics) shares its math with `ML_GEN` (diffusion models
   are literally simulated thermodynamics).
 - [Materials Science](../materials-science/index.md) — `PH_THERMO` and `PH_COND`
   underlie `MAT_THERMO` and `MAT_ELEC`.
-- [Personal Philosophy](../personal-philosophy/index.md) — `PH_PHILO`'s
+- [Personal Philosophy](../../self/personal-philosophy/index.md) — `PH_PHILO`'s
   questions about determinism and the nature of time bear on `PP_META`.
 
 See also: [Book List](../../BOOKLIST.md).

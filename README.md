@@ -1,54 +1,77 @@
 # Skill Trees
 
-A personal map of concepts to learn and positions to work out. Each tree is
-a folder with an `index.md` holding the map — a Mermaid diagram plus links.
-Articles get written by hand, per topic, only where a topic warrants one.
+Two separate things, kept apart on purpose:
 
-## Trees
+- **`self/`** — working out my own positions and capabilities. The output
+  is *my answer*.
+- **`disciplines/`** — bodies of knowledge that exist independently of me.
+  The output is *understanding the field*.
 
-**Philosophy & Mind**
-- [Personal Philosophy](trees/personal-philosophy/index.md)
-- [Political Philosophy](trees/political-philosophy/index.md)
-- [Epistemology](trees/epistemology/index.md)
-- [Esotericism & Religion](trees/esotericism-and-religion/index.md)
-- [Psychology & Self-Mastery](trees/psychology-self-mastery/index.md)
+Each tree is a folder with an `index.md` holding the map — a Mermaid
+diagram plus links. Articles get written by hand, per topic, only where a
+topic warrants one.
 
-**Power & Social**
-- [Power & Frame Control](trees/power-and-frame-control/index.md)
-- [Social Skills](trees/social-skills/index.md)
+## Self
 
-**Hard Sciences**
-- [Physics](trees/physics/index.md)
-- [Biology](trees/biology/index.md)
-- [Mathematics](trees/math/index.md)
-- [Statistics](trees/statistics/index.md)
-- [Materials Science](trees/materials-science/index.md)
+Positions and capabilities. Personal documents sit at the top of this
+section; the trees under it are where the thinking gets done.
 
-**Applied / Quant**
-- [Machine Learning / AI](trees/machine-learning-ai/index.md)
-- [Civil Engineering](trees/civil-engineering/index.md)
-- [Economics](trees/economics/index.md)
-- [Finance](trees/finance/index.md)
+- [Self-Map](self/self-map.md) — personality, drives, proclivities, failure modes.
+- [Social Identity](self/social-identity.md) — the theory, and defining mine.
 
-**Personal**
-- [Self-Map](personal/self-map.md) — personality, drives, proclivities,
-  failure modes.
-- [Social Identity](personal/social-identity.md) — the theory of social
-  identity, and defining mine.
+**Worldview**
+- [Personal Philosophy](self/personal-philosophy/index.md)
+- [Political Philosophy](self/political-philosophy/index.md)
+- [Epistemology](self/epistemology/index.md)
+- [Esotericism & Religion](self/esotericism-and-religion/index.md)
 
-**Reading**
+**Practice**
+- [Psychology & Self-Mastery](self/psychology-self-mastery/index.md)
+- [Power & Frame Control](self/power-and-frame-control/index.md)
+- [Social Skills](self/social-skills/index.md)
+
+## Disciplines
+
+Subjects to learn. Nothing here is about me.
+
+**Formal**
+- [Mathematics](disciplines/math/index.md)
+- [Statistics](disciplines/statistics/index.md)
+
+**Natural sciences**
+- [Physics](disciplines/physics/index.md)
+- [Biology](disciplines/biology/index.md)
+- [Materials Science](disciplines/materials-science/index.md)
+
+**Applied**
+- [Machine Learning / AI](disciplines/machine-learning-ai/index.md)
+- [Civil Engineering](disciplines/civil-engineering/index.md)
+- [Economics](disciplines/economics/index.md)
+- [Finance](disciplines/finance/index.md)
+
+## Reading
+
 - [Book List](BOOKLIST.md)
 
 ## Structure
 
 ```
-trees/<tree>/
-  index.md            the map: blurb, Mermaid diagram, related trees
-  articles/           articles I write, once a topic is worth one
-    <topic>.md
-personal/             documents about me rather than about a subject
+self/                 my positions and capabilities
+  self-map.md
+  social-identity.md
+  <tree>/
+    index.md          the map: blurb, Mermaid diagram, related trees
+    articles/         articles I write, once a topic is worth one
+disciplines/          subjects that exist independently of me
+  <tree>/
+    index.md
+    articles/
 BOOKLIST.md           everything captured, by area, with read status
 ```
+
+The split is the point. `self/` is for arriving at an answer I hold;
+`disciplines/` is for learning something true whether I engage with it or
+not. A tree drifting across that line is in the wrong directory.
 
 A tree is a **map** — the diagram is the point. It shows how topics relate
 and how deep the domain goes.
@@ -59,8 +82,8 @@ pile of encyclopedia entries nobody asked for. Most trees have no
 `articles/` folder at all, and that's the normal state. When one gets
 written, add it to the index under an `## Articles` heading.
 
-Right now only [Personal Philosophy](trees/personal-philosophy/index.md)
-and [Political Philosophy](trees/political-philosophy/index.md) have
+Right now only [Personal Philosophy](self/personal-philosophy/index.md)
+and [Political Philosophy](self/political-philosophy/index.md) have
 articles, and those are **question placeholders** — the questions to work
 through, with blank space for my answers.
 
@@ -103,7 +126,9 @@ No framing essays, no prose explaining the topic to me.
 
 ## Adding a tree
 
-1. `trees/<name>/index.md` with the blurb and diagram. That's the whole
-   tree — no articles until one is actually worth writing.
+1. Decide which side it belongs on — is the output my position, or
+   understanding a field? Then `self/<name>/index.md` or
+   `disciplines/<name>/index.md`, with the blurb and diagram. That's the
+   whole tree; no articles until one is worth writing.
 2. Add it to the list above and link it both ways from any tree it
    overlaps.

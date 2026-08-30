@@ -114,7 +114,7 @@ flowchart TD
   actually operates, as opposed to how it's justified.
 - [Esotericism & Religion](../esotericism-and-religion/index.md) — what
   religion is doing that political order depends on.
-- [Economics](../economics/index.md) — property, distribution, and the
+- [Economics](../../disciplines/economics/index.md) — property, distribution, and the
   material constraints on any political arrangement.
 
 See also: [Book List](../../BOOKLIST.md).
