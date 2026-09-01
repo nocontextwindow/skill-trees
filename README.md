@@ -49,9 +49,10 @@ Subjects to learn. Nothing here is about me.
 - [Economics](disciplines/economics/index.md)
 - [Finance](disciplines/finance/index.md)
 
-## Reading
+## Reference
 
 - [Book List](BOOKLIST.md)
+- [Terms](TERMS.md)
 
 ## Structure
 
@@ -67,6 +68,7 @@ disciplines/          subjects that exist independently of me
     index.md
     articles/
 BOOKLIST.md           everything captured, by area, with read status
+TERMS.md              vocabulary, one line each
 ```
 
 The split is the point. `self/` is for arriving at an answer I hold;
